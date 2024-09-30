@@ -1,1 +1,1 @@
-"First Python File"
+Print ("First Python File")
